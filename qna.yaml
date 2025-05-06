@@ -1,5 +1,29 @@
 version: 3
 domain : goverment speech
 created_by : gaurav & shukran
+seed_examples:
+  - context: |
+        Currently, over 1 crore registered MSMEs, employing 7.5 crore people,
+        and generating 36 per cent of our manufacturing, have come together to
+        position India as a global manufacturing hub. With their quality products,
+        these MSMEs are responsible for 45 per cent of our exports. To help them
+        achieve higher efficiencies of scale, technological upgradation and better
+        access to capital, the investment and turnover limits for classification of all
+        MSMEs will be enhanced to 2.5 and 2 times respectively. This will give them
+        the confidence to grow and generate employment for our youth. The details
+        are in Annexure D.
+    questions_and_answers:
+      - question: |
+           What does the budget propose to boost the efficiency for MSME ?
+        answer: |
+           The budget has increased the investment and turnover limits 2.5 and 2 times
+      - question: | 
+          How will goverment boost the confidence in MSME sector ?
+        answer: |
+          The confidence in the MSME sectors will be improved with increase in the investment and turnover limits
+      - question: |
+          What is contribution of MSME in exports ?
+        answer: |
+          The MSME are responsible for 45 percent of the total exports
 document_outline: |
   the official speech given by nirmala sitaram, finance minister of India, on Indian budget for 2025
