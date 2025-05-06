@@ -3,15 +3,15 @@ domain : goverment speech
 created_by : gaurav & shukran
 seed_examples:
   - context: |
-        Currently, over 1 crore registered MSMEs, employing 7.5 crore people,
-        and generating 36 per cent of our manufacturing, have come together to
-        position India as a global manufacturing hub. With their quality products,
-        these MSMEs are responsible for 45 per cent of our exports. To help them
-        achieve higher efficiencies of scale, technological upgradation and better
-        access to capital, the investment and turnover limits for classification of all
-        MSMEs will be enhanced to 2.5 and 2 times respectively. This will give them
-        the confidence to grow and generate employment for our youth. The details
-        are in Annexure D.
+28. Currently, over 1 crore registered MSMEs, employing 7.5 crore people,
+and generating 36 per cent of our manufacturing, have come together to
+position India as a global manufacturing hub. With their quality products,
+these MSMEs are responsible for 45 per cent of our exports. To help them
+achieve higher efficiencies of scale, technological upgradation and better
+access to capital, the investment and turnover limits for classification of all
+MSMEs will be enhanced to 2.5 and 2 times respectively. This will give them
+the confidence to grow and generate employment for our youth. The details
+are in Annexure D.
     questions_and_answers:
       - question: |
            What does the budget propose to boost the efficiency for MSME ?
@@ -25,5 +25,101 @@ seed_examples:
           What is contribution of MSME in exports ?
         answer: |
           The MSME are responsible for 45 percent of the total exports
+
+  - context: |
+India ranks second-largest globally in fish production and aquaculture.
+Seafood exports are valued at ` 60 thousand crore. To unlock the untapped
+potential of the marine sector, our Government will bring in an enabling
+framework for sustainable harnessing of fisheries from Indian Exclusive
+Economic Zone and High Seas, with a special focus on the Andaman & Nicobar
+and Lakshadweep Islands.
+    questions_and_answers:
+      - question: |
+          What is India's rank in global fish production and aquaculture?
+        answer: |
+          India ranks as the second-largest globally in fish production and aquaculture.
+      - question: |
+          What is the value of India's seafood exports?
+        answer: |
+          India's seafood exports are valued at ` 60 thousand crore.
+      - question: |
+          What is the government's focus for sustainable fisheries?
+        answer: |
+          The government will focus on sustainable harnessing of fisheries from the Indian Exclusive Economic Zone and High Seas, with special attention to the Andaman & Nicobar and Lakshadweep Islands.
+
+  - context: |
+For the benefit of lakhs of cotton growing farmers, I am pleased to
+announce a ‘Mission for Cotton Productivity’. This 5-year mission will facilitate
+significant improvements in productivity and sustainability of cotton farming,
+and promote extra-long staple cotton varieties. The best of science &
+technology support will be provided to farmers. Aligned with our integrated 5F
+vision for the textile sector, this will help in increasing incomes of the farmers,
+and ensure a steady supply of quality cotton for rejuvenating India’s traditional
+textile sector.        
+    questions_and_answers:
+      - question: |
+          What is the purpose of the ‘Mission for Cotton Productivity’?
+        answer: |
+          The mission aims to improve productivity and sustainability of cotton farming and promote extra-long staple cotton varieties.
+      - question: |
+          How will the mission support cotton farmers?
+        answer: |
+          The mission will provide the best of science and technology support to farmers.
+      - question: |
+          What is the expected impact of the mission on the textile sector?
+        answer: |
+          It will ensure a steady supply of quality cotton and help rejuvenate India’s traditional textile sector.
+
+  - context: |
+To improve access to credit, the credit guarantee cover will be
+enhanced:
+a) For Micro and Small Enterprises, from ` 5 crore to 10 crore, leading
+to additional credit of ` 1.5 lakh crore in the next 5 years;
+b) For Startups, from ` 10 crore to 20 crore, with the guarantee fee
+being moderated to 1 per cent for loans in 27 focus sectors
+important for Atmanirbhar Bharat; and
+c) For well-run exporter MSMEs, for term loans up to ` 20 crore.
+    questions_and_answers:
+      - question: |
+          How will the credit guarantee cover be enhanced for Micro and Small Enterprises?
+        answer: |
+          It will be increased from ` 5 crore to 10 crore, leading to additional credit of ` 1.5 lakh crore in the next 5 years.
+      - question: |
+          What changes are proposed for startups under the credit guarantee scheme?
+        answer: |
+          The credit guarantee cover for startups will be increased from ` 10 crore to 20 crore, with the guarantee fee moderated to 1 per cent for loans in 27 focus sectors.
+      - question: |
+          What is the benefit for well-run exporter MSMEs under the enhanced credit guarantee cover?
+        answer: |
+          Well-run exporter MSMEs will receive term loans up to ` 20 crore under the enhanced credit guarantee cover.
+
+  - context: |
+34. To enhance the productivity, quality and competitiveness of India’s
+footwear and leather sector, a focus product scheme will be implemented. The
+scheme will support design capacity, component manufacturing, and
+machinery required for production of non-leather quality footwear, besides the
+support for leather footwear and products. The scheme is expected to facilitate
+employment for 22 lakh persons, generate turnover of ` 4 lakh crore and
+exports of over ` 1.1 lakh crore.
+Measures for the Toy Sector
+35. Building on the National Action Plan for Toys, we will implement a
+scheme to make India a global hub for toys. The scheme will focus on
+development of clusters, skills, and a manufacturing ecosystem that will create
+high-quality, unique, innovative, and sustainable toys that will represent the
+'Made in India' brand.
+    questions_and_answers:
+      - question: |
+          What is the aim of the focus product scheme for the footwear and leather sector?
+        answer: |
+          The scheme aims to enhance productivity, quality, and competitiveness by supporting design capacity, component manufacturing, and machinery for non-leather and leather footwear.
+      - question: |
+          What are the expected outcomes of the footwear and leather sector scheme?
+        answer: |
+          The scheme is expected to facilitate employment for 22 lakh persons, generate a turnover of ` 4 lakh crore, and exports of over ` 1.1 lakh crore.
+      - question: |
+          What is the purpose of the scheme for the toy sector?
+        answer: |
+          The scheme aims to make India a global hub for toys by developing clusters, skills, and a manufacturing ecosystem for high-quality, innovative, and sustainable toys.
+
 document_outline: |
   the official speech given by nirmala sitaram, finance minister of India, on Indian budget for 2025
