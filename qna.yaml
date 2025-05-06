@@ -123,3 +123,9 @@ high-quality, unique, innovative, and sustainable toys that will represent the
 
 document_outline: |
   the official speech given by nirmala sitaram, finance minister of India, on Indian budget for 2025
+
+document:
+  repo: 'https://github.com/gsharma239/etxai/blob/main/budget_speech.md'
+  commit: 526a277004b31456e9ff0dc9b4fce017bc7297a9
+  patterns:
+    - 
