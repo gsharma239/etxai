@@ -659,7 +659,6 @@ I will come to my proposal on personal income tax towards the end.
 - 158. In the new tax regime, I propose to revise tax rate structure as follows:
 
 | 0-4 lakh rupees      | Nil         |
-|----------------------|-------------|
 | 4-8 lakh rupees      | 5 per cent  |
 | 8-12 lakh rupees     | 10 per cent |
 | 12-16 lakh rupees    | 15 per cent |

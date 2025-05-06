@@ -1,0 +1,38 @@
+version: 3
+domain: goverment speech
+created_by: gaurav & shukran
+document_outline: |
+   the official speech given by nirmala sitaram, finance minister of India, on Indian budget for 2025
+seed_examples:
+  - context: |
+    - 157. Slabs and rates are being changed across the board to benefit all taxpayers. The new structure will substantially reduce the taxes of the middle class and leave more money in their hands, boosting household consumption, savings and investment.
+    - 158. In the new tax regime, I propose to revise tax rate structure as follows:
+
+    | 0-4 lakh rupees      | Nil         |
+    | 4-8 lakh rupees      | 5 per cent  |
+    | 8-12 lakh rupees     | 10 per cent |
+    | 12-16 lakh rupees    | 15 per cent |
+    | 16-20 lakh rupees    | 20 per cent |
+    | 20- 24 lakh rupees   | 25 per cent |
+    | Above 24 lakh rupees | 30 per cent |
+  questions_and_answers:
+    - question: |
+      Who benefits the most from the tax changes?
+    - answer: |
+      The new structure will substantially reduce the taxes of the middle class and leave more money in their hands, boosting household consumption, savings and investment.
+    - question: |
+      What is the slab rate for a person who earns 12 lakh and below? 
+    - answer: |
+      Here are the following rates for persons earning 12 lakh and below:
+      | 0-4 lakh rupees      | Nil         |
+      | 4-8 lakh rupees      | 5 per cent  |
+      | 8-12 lakh rupees     | 10 per cent |
+    - question: |
+      What is the new tax rate structure?
+    - answer: |
+      The new tax rate structure is as follows:
+      | 0-4 lakh rupees      | Nil         |
+      | 4-8 lakh rupees      | 5 per cent  |
+      | 8-12 lakh rupees     | 10 per cent |
+      | 12-16 lakh rupees    | 15 per cent |
+      | 16-20 lakh rupees    | 20 per cent |

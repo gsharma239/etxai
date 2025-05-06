@@ -1,0 +1,19 @@
+version: 3
+domain : Singapore Legal System
+created_by : gaurav & shukran
+seed_examples:
+document_outline: |
+  An overview and history of Singapore's legal system
+seed_examples:
+  - context: |
+    - 1.2.1      From its founding by Sir Thomas Stamford Raffles of the British East India Company in 1819 to its independence in 1965, Singapore's legal development had been intricately linked with its British colonial master. Often, English legal traditions, practices, case law and legislation were adopted without much consideration as to whether they suited the local circumstances.
+    - 1.2.2      With independence, there has been a gradual - and increasing - movement towards developing an autochthonous legal system. The guiding principle is that the adoption of any legal practice or norm must be compatible with Singapore's cultural, social and economic requirements. In this regard, the economic success of Singapore can be attributed, amongst others, to the wisdom of its leadership, its use of laws and the legal system to build a new society and to entrench its economic survival while ensuring that the legal system is attuned to the needs and demands of the international community. What follows is a sketch of the milestones in Singapore's legal and constitutional development.
+  questions_and_answers:
+    - question: |
+      What is the history of Singapore's style of legal system?
+    - answer: |
+      From its founding by Sir Thomas Stamford Raffles of the British East India Company in 1819 to its independence in 1965, Singapore's legal development had been intricately linked with its British colonial master. Often, English legal traditions, practices, case law and legislation were adopted without much consideration as to whether they suited the local circumstances.
+    - question: |
+      How did Singapore's legal system develop after independence?
+    - answer: |
+      With independence, there has been a gradual - and increasing - movement towards developing an autochthonous legal system. The guiding principle is that the adoption of any legal practice or norm must be compatible with Singapore's cultural, social and economic requirements. 
