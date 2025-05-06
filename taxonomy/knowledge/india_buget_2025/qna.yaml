@@ -19,7 +19,7 @@ seed_examples:
     - question: |
       Who benefits the most from the tax changes?
     - answer: |
-      The new structure will substantially reduce the taxes of the middle class and leave more money in their hands, boosting household consumption, savings and investment.
+      The middle class will see significant tax reductions under the new structure, which will increase their disposable income and help drive greater household spending, savings and investments.
     - question: |
       What is the slab rate for a person who earns 12 lakh and below? 
     - answer: |
@@ -30,7 +30,7 @@ seed_examples:
     - question: |
       What is the new tax rate structure?
     - answer: |
-      The new tax rate structure is as follows:
+      Under the revised tax structure, the following rates will apply:
       | 0-4 lakh rupees      | Nil         |
       | 4-8 lakh rupees      | 5 per cent  |
       | 8-12 lakh rupees     | 10 per cent |
