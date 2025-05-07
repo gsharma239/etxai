@@ -1,103 +1,70 @@
-version: 1
-domain : Singapore Legal System
-created_by : gaurav & shukran
-seed_examples:
+version: 3
+domain: Singapore Legal System
+created_by: Shukran
 document_outline: |
   An overview and history of Singapore's legal system
 seed_examples:
   - context: |
-    - 1.2.1      From its founding by Sir Thomas Stamford Raffles of the British East India Company in 1819 to its independence in 1965, Singapore's legal development had been intricately linked with its British colonial master. Often, English legal traditions, practices, case law and legislation were adopted without much consideration as to whether they suited the local circumstances.
-    - 1.2.2      With independence, there has been a gradual - and increasing - movement towards developing an autochthonous legal system. The guiding principle is that the adoption of any legal practice or norm must be compatible with Singapore's cultural, social and economic requirements. In this regard, the economic success of Singapore can be attributed, amongst others, to the wisdom of its leadership, its use of laws and the legal system to build a new society and to entrench its economic survival while ensuring that the legal system is attuned to the needs and demands of the international community. What follows is a sketch of the milestones in Singapore's legal and constitutional development.
-  questions_and_answers:
-    - question: |
-      How was Singapore’s legal framework shaped during its colonial era?
-    - answer: |
-      Before independence in 1965, Singapore's legal system closely followed British models, adopting English laws and practices often without adapting them to the local context.
-    - question: |
-      How did Singapore's legal system develop after independence?
-    - answer: |
-      With independence, there has been a gradual - and increasing - movement towards developing an autochthonous legal system. The guiding principle is that the adoption of any legal practice or norm must be compatible with Singapore's cultural, social and economic requirements.
+      - 1.2.1 From its founding by Sir Thomas Stamford Raffles of the British East India Company in 1819 to its independence in 1965, Singapore's legal development had been intricately linked with its British colonial master. Often, English legal traditions, practices, case law and legislation were adopted without much consideration as to whether they suited the local circumstances.
+      - 1.2.2 With independence, there has been a gradual - and increasing - movement towards developing an autochthonous legal system. The guiding principle is that the adoption of any legal practice or norm must be compatible with Singapore's cultural, social and economic requirements. In this regard, the economic success of Singapore can be attributed, amongst others, to the wisdom of its leadership, its use of laws and the legal system to build a new society and to entrench its economic survival while ensuring that the legal system is attuned to the needs and demands of the international community. What follows is a sketch of the milestones in Singapore's legal and constitutional development.
+    questions_and_answers:
+      - question: How was Singapore's legal framework shaped during its colonial era?
+        answer: Before independence in 1965, Singapore's legal system closely followed British models, adopting English laws and practices often without adapting them to the local context.
+      - question: How did Singapore's legal system develop after independence?
+        answer: With independence, there has been a gradual - and increasing - movement towards developing an autochthonous legal system. The guiding principle is that the adoption of any legal practice or norm must be compatible with Singapore's cultural, social and economic requirements.
+      - question: What factors contributed to Singapore's economic success according to the text?
+        answer: The economic success can be attributed to the wisdom of its leadership, its use of laws and the legal system to build a new society and to entrench its economic survival while ensuring that the legal system is attuned to the needs and demands of the international community.
   - context: |
-    - 1.2.17    1948-1960: The Emergency period. The authorities in Singapore and Malaya (after 1957, Malaysia) clamped down on the Communist Party of Malaya which had the declared goal of taking over Malaya and Singapore through violence. Draconian laws were enacted (including detention without trial) in an attempt to control communist united front activity.
-    - 1.2.18    1953: A Constitutional Commission, headed by the Sir George Rendel (the 'Rendel Commission'), was formed to review the Colony's constitution and to enlarge the public participation in self-governance. The government accepted most of the Commission's report including the transformation of the Legislative Council into a chamber comprising mainly of directly elected members. However, the real power continued to be vested in the Governor and the Official Members of the Council of Ministers rather than the elected Assembly members. By this time, the Progressive Party was the leading political party in Singapore having won the Legislative Council elections in 1948 and 1951.
-
-    - 1.2.19    1955: In the first Legislative Assembly elections, the Labour Front - led by David Saul Marshall - displaced the Progressive Party as the leading party, winning 10 of the available 25 seats. The People's Action Party (hereafter the 'PAP'), founded in the same year, won 3 seats. Marshall was made Singapore's first Chief Minister and was adamant on accelerating the movement towards self-government. Constitutional talks on self-government began in 1956 in London with a non-partisan mission comprising representatives from all the parties in the Assembly.
-  questions_and_answers:
-    - question: |
-      What was the main reason for the implementation of draconian laws in Singapore and Malaya between 1948 and 1960?
-    - answer: |
-      Draconian laws, including detention without trial, were implemented to suppress the Communist Party of Malaya, which aimed to take over Malaya and Singapore through violence.
-    - question: |
-      Why was the Rendel Commission established in the early 1950s?
-    - answer: |
-      The Commission was set up to assess Singapore's constitutional structure and explore ways to expand democratic involvement in governance.
-    - question: |
-      Which party emerged as the dominant force in early post-war elections in Singapore?
-    - answer: |
-      The Progressive Party gained prominence by winning the Legislative Council elections held in 1948 and 1951.
-    - question: |
-      What changes in political leadership occurred after the 1955 Legislative Assembly elections?
-    - answer: |
-      The Labour Front, led by David Marshall, won the most seats and replaced the Progressive Party as the dominant party, while the newly formed PAP secured a few seats.
-- context: |
-    - 1.2.20 1956: Marshall resigned on 6 June as Chief Minister after the breakdown of constitutional talks over whether the British High Commissioner in Singapore should have the casting vote on the proposed Defence Council. Lim Yew Hock, Marshall's deputy and Minister for Labour, became the Chief Minister. Lim led the March 1957 constitutional mission, which was successful in negotiating the main terms of a new Singapore Constitution.
-    - 1.2.21    8 May 1958: The Constitutional Agreement was signed in London. The British Parliament passed the State of Singapore Act (6 &amp; 7 Eliz. 2 Ch. 59 (1958)) on 1 August marking Singapore's transition from a colony to a self-governing state in 1959.
-    - 1.2.22    May 1959: The PAP won 43 seats, garnering 53.4 per cent of the total votes, in the elections to choose 51 representatives to the first fully elected Legislative Assembly. On 3 June, the new State Constitution was brought into force by the proclamation of the Governor, Sir William Goode, who became the first Yang di-Pertuan Negara (Head of State). Lee Kuan Yew became Singapore's first Prime Minister. This marked the culmination of the road to selfgovernment and the beginning of the arduous road to independence via merger with Malaysia.
-  questions_and_answers:
-    - question: |
-      Why did David Marshall resign as Chief Minister in 1956?
-    - answer: |
-      He resigned after the breakdown of constitutional talks over the British High Commissioner’s casting vote on the Defence Council.
-    - question: |
-      Who succeeded David Marshall as Chief Minister, and what was his major achievement?
-    - answer: |
-      Lim Yew Hock succeeded him and successfully negotiated the terms of a new constitution during the 1957 mission to London.
-    - question: |
-      What was the significance of the State of Singapore Act passed on 1 August 1958?
-    - answer: |
-      It marked Singapore's transition from a British colony to a self-governing state.
-    - question: |
-      At what point did Singapore attain self-governing status, and who took office as its first Prime Minister?
-    - answer: |
-      In June 1959, Singapore officially became self-governing, with Lee Kuan Yew appointed as its first Prime Minister.
+      - 1.2.17 1948–1960: The Emergency period. The authorities in Singapore and Malaya (after 1957, Malaysia) clamped down on the Communist Party of Malaya which had the declared goal of taking over Malaya and Singapore through violence. Draconian laws were enacted (including detention without trial) in an attempt to control communist united front activity.
+      - 1.2.18 1953: A Constitutional Commission, headed by the Sir George Rendel (the 'Rendel Commission'), was formed to review the Colony's constitution and to enlarge the public participation in self-governance. The government accepted most of the Commission's report including the transformation of the Legislative Council into a chamber comprising mainly of directly elected members. However, the real power continued to be vested in the Governor and the Official Members of the Council of Ministers rather than the elected Assembly members. By this time, the Progressive Party was the leading political party in Singapore having won the Legislative Council elections in 1948 and 1951.
+      - 1.2.19 1955: In the first Legislative Assembly elections, the Labour Front - led by David Saul Marshall - displaced the Progressive Party as the leading party, winning 10 of the available 25 seats. The People's Action Party (hereafter the 'PAP'), founded in the same year, won 3 seats. Marshall was made Singapore's first Chief Minister and was adamant on accelerating the movement towards self-government. Constitutional talks on self-government began in 1956 in London with a non-partisan mission comprising representatives from all the parties in the Assembly.
+    questions_and_answers:
+      - question: What was the main reason for the implementation of draconian laws in Singapore and Malaya between 1948 and 1960?
+        answer: Draconian laws, including detention without trial, were implemented to suppress the Communist Party of Malaya, which aimed to take over Malaya and Singapore through violence.
+      - question: Why was the Rendel Commission established in the early 1950s?
+        answer: The Commission was set up to assess Singapore's constitutional structure and explore ways to expand democratic involvement in governance.
+      - question: Which party emerged as the dominant force in early post-war elections in Singapore?
+        answer: The Progressive Party gained prominence by winning the Legislative Council elections held in 1948 and 1951.
+      - question: What changes in political leadership occurred after the 1955 Legislative Assembly elections?
+        answer: The Labour Front, led by David Marshall, won the most seats and replaced the Progressive Party as the dominant party, while the newly formed PAP secured a few seats.
   - context: |
-    - 1.3.7      The common law system in Singapore bears material differences from some Asian countries which have imbibed the civil law tradition (the People's Republic of China, Vietnam and Thailand) or those with a mixture of civil and common law traditions (the Philippines).
-    - 1.3.8      Firstly, the civil law systems place relatively less weight on prior judicial decisions and do not abide by the doctrine of stare decisis, unlike the common law system as described in Section 1.3.2 and 1.3.3 above. The common law courts in Singapore generally adopt an adversarial approach in litigation between the disputing parties whilst the civil law judges tend to take a more active role in the finding of evidence to decide the outcome of the case. Thirdly, whilst numerous legal principles have been developed by common law judges, the civil law judges are more reliant on general and comprehensive codes governing wide areas.
-    - 1.3.9      However, the divergence between the common law and civil law systems is now less marked than in the past. Common law jurisdictions have, for instance, embarked upon legislative programmes to fill the perceived gaps of the common law. In this regard, Singapore has enacted various statutes to govern specific areas of law (such as the Competition Act 2004 (No 46 of 2004), Consumer Protection (Fair Trading) Act) (Cap 52A, 2004 Rev Ed) and Protection from Harassment Act 2014 (No 17 of 2014)).
-  questions_and_answers:
-    - question: |
-      How does Singapore’s common law system differ from civil law systems in Asia?
-    - answer: |
-      Unlike civil law systems, Singapore’s common law system adheres to the doctrine of stare decisis and places greater emphasis on judicial precedents.
-    - question: |
-      What role do judges typically play in common law versus civil law systems?
-    - answer: |
-      In common law systems like Singapore’s, judges take a more passive role during trials, whereas civil law judges actively investigate and find evidence.
-    - question: |
-      How has Singapore addressed gaps in its common law framework?
-    - answer: |
-      Singapore has enacted statutes such as the Competition Act and Protection from Harassment Act to supplement the common law.
+      - 1.2.20 1956: Marshall resigned on 6 June as Chief Minister after the breakdown of constitutional talks over whether the British High Commissioner in Singapore should have the casting vote on the proposed Defence Council. Lim Yew Hock, Marshall's deputy and Minister for Labour, became the Chief Minister. Lim led the March 1957 constitutional mission, which was successful in negotiating the main terms of a new Singapore Constitution.
+      - 1.2.21 8 May 1958: The Constitutional Agreement was signed in London. The British Parliament passed the State of Singapore Act (6 & 7 Eliz. 2 Ch. 59 (1958)) on 1 August marking Singapore's transition from a colony to a self-governing state in 1959.
+      - 1.2.22 May 1959: The PAP won 43 seats, garnering 53.4 per cent of the total votes, in the elections to choose 51 representatives to the first fully elected Legislative Assembly. On 3 June, the new State Constitution was brought into force by the proclamation of the Governor, Sir William Goode, who became the first Yang di-Pertuan Negara (Head of State). Lee Kuan Yew became Singapore's first Prime Minister. This marked the culmination of the road to self-government and the beginning of the arduous road to independence via merger with Malaysia.
+    questions_and_answers:
+      - question: Why did David Marshall resign as Chief Minister in 1956?
+        answer: He resigned after the breakdown of constitutional talks over the British High Commissioner's casting vote on the Defence Council.
+      - question: Who succeeded David Marshall as Chief Minister, and what was his major achievement?
+        answer: Lim Yew Hock succeeded him and successfully negotiated the terms of a new constitution during the 1957 mission to London.
+      - question: What was the significance of the State of Singapore Act passed on 1 August 1958?
+        answer: It marked Singapore's transition from a British colony to a self-governing state.
+      - question: At what point did Singapore attain self-governing status, and who took office as its first Prime Minister?
+        answer: In June 1959, Singapore officially became self-governing, with Lee Kuan Yew appointed as its first Prime Minister.
   - context: |
-    - 1.5.2      The law-making process begins with a Bill, normally drafted by the Government legal officers. Private members' Bills are rare in Singapore. During the parliamentary debates on important Bills, the Ministers often make speeches to defend the Bill and answer pointed queries raised by the backbenchers. The Members of Parliament (MPs) may, in some cases, decide to refer the Bill to a Select Committee to deliberate upon and submit a report to the Parliament. If the report is favourable or the proposed amendments to the Bill are approved by Parliament, the Bill is accepted by the Parliament and passed.
-    - 1.5.3      The Presidential Council for Minority Rights (PCMR) established under the Singapore Constitution is tasked, except for certain exempted Bills, to scrutinise Bills for any measures which may be disadvantageous to persons of any racial and religious communities without being equally disadvantageous to persons of other such communities, either by directly prejudicing persons of that community or indirectly by giving advantage to persons of another community. If the report of the PCMR is favourable or a two-thirds majority in Parliament has been obtained to override any adverse report of the PCMR, the Bill proceeds for the Elected President's assent. Upon assent, the Bill is formally enacted as 'law'.
-  questions_and_answers:
-    - question: |
-      Who is primarily responsible for drafting legislation in Singapore, and how frequently do non-government members introduce Bills?
-    - answer: |
-      Legislation is typically prepared by government legal teams, with proposals from individual MPs being uncommon.
-    - question: |
-      What is the role of the Select Committee in the legislative process?
-    - answer: |
-      It reviews and reports on Bills when referred to it by Members of Parliament, especially if amendments are proposed.
-    - question: |
-      What is the function of the Presidential Council for Minority Rights (PCMR)?
-    - answer: |
-      The PCMR checks Bills for potential adverse effects on any racial or religious community and can flag discriminatory provisions.
-    - question: |
-      What are the final steps required for a proposed Bill to be enacted in Singapore?
-    - answer: |
-      A Bill becomes law once it is approved by Parliament, reviewed by the PCMR, and receives formal assent from the Elected President.
+      - 1.3.7 The common law system in Singapore bears material differences from some Asian countries which have imbibed the civil law tradition (the People's Republic of China, Vietnam and Thailand) or those with a mixture of civil and common law traditions (the Philippines).
+      - 1.3.8 Firstly, the civil law systems place relatively less weight on prior judicial decisions and do not abide by the doctrine of stare decisis, unlike the common law system as described in Section 1.3.2 and 1.3.3 above. The common law courts in Singapore generally adopt an adversarial approach in litigation between the disputing parties whilst the civil law judges tend to take a more active role in the finding of evidence to decide the outcome of the case. Thirdly, whilst numerous legal principles have been developed by common law judges, the civil law judges are more reliant on general and comprehensive codes governing wide areas.
+      - 1.3.9 However, the divergence between the common law and civil law systems is now less marked than in the past. Common law jurisdictions have, for instance, embarked upon legislative programmes to fill the perceived gaps of the common law. In this regard, Singapore has enacted various statutes to govern specific areas of law (such as the Competition Act 2004 (No 46 of 2004), Consumer Protection (Fair Trading) Act (Cap 52A, 2004 Rev Ed), and Protection from Harassment Act 2014 (No 17 of 2014)).
+    questions_and_answers:
+      - question: How does Singapore's common law system differ from civil law systems in Asia?
+        answer: Unlike civil law systems, Singapore's common law system adheres to the doctrine of stare decisis and places greater emphasis on judicial precedents.
+      - question: What role do judges typically play in common law versus civil law systems?
+        answer: In common law systems like Singapore's, judges take a more passive role during trials, whereas civil law judges actively investigate and find evidence.
+      - question: How has Singapore addressed gaps in its common law framework?
+        answer: Singapore has enacted statutes such as the Competition Act and Protection from Harassment Act to supplement the common law.
+  - context: |
+      - 1.5.2 The law-making process begins with a Bill, normally drafted by the Government legal officers. Private members' Bills are rare in Singapore. During the parliamentary debates on important Bills, the Ministers often make speeches to defend the Bill and answer pointed queries raised by the backbenchers. The Members of Parliament (MPs) may, in some cases, decide to refer the Bill to a Select Committee to deliberate upon and submit a report to the Parliament. If the report is favourable or the proposed amendments to the Bill are approved by Parliament, the Bill is accepted by the Parliament and passed.
+      - 1.5.3 The Presidential Council for Minority Rights (PCMR) established under the Singapore Constitution is tasked, except for certain exempted Bills, to scrutinise Bills for any measures which may be disadvantageous to persons of any racial and religious communities without being equally disadvantageous to persons of other such communities, either by directly prejudicing persons of that community or indirectly by giving advantage to persons of another community. If the report of the PCMR is favourable or a two-thirds majority in Parliament has been obtained to override any adverse report of the PCMR, the Bill proceeds for the Elected President's assent. Upon assent, the Bill is formally enacted as 'law'.
+    questions_and_answers:
+      - question: Who is primarily responsible for drafting legislation in Singapore, and how frequently do non-government members introduce Bills?
+        answer: Legislation is typically prepared by government legal teams, with proposals from individual MPs being uncommon.
+      - question: What is the role of the Select Committee in the legislative process?
+        answer: It reviews and reports on Bills when referred to it by Members of Parliament, especially if amendments are proposed.
+      - question: What is the function of the Presidential Council for Minority Rights (PCMR)?
+        answer: The PCMR checks Bills for potential adverse effects on any racial or religious community and can flag discriminatory provisions.
+      - question: What are the final steps required for a proposed Bill to be enacted in Singapore?
+        answer: A Bill becomes law once it is approved by Parliament, reviewed by the PCMR, and receives formal assent from the Elected President.
 document:
-  repo:
-  commit:
+  repo: https://github.com/gsharma239/etxai.git
+  commit: 4f1f691fbdb18030fd973c1caa613f664b5ee607
   patterns:
+    - markdowns/singapore_legal_system.md
